@@ -1,5 +1,5 @@
 {
-    "name": "typesense/laravel-scout-typesense-driver",
+    "name": "ayarigab/laravel-scout-typesense-driver",
     "description": "Laravel Scout Driver for Typesense",
     "keywords": [
         "laravel",
